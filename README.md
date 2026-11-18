@@ -20,6 +20,8 @@ from NVIDIA's officially reported GAAP results.
 - `data/calendar_year_pl.csv` — calendar-year P&L totals
 - `data/comparative_statement.csv` — comparison table data
 - `data/sources.md` — official source for every quarter
+- `share-portfolio/fy2027_share_portfolio.md` — NVDA share portfolio for FY2027: quarter-by-quarter prices, dividends, buybacks, and the market effect of the November 2026 CEO change
+- `data/nvda_share_prices_fy2027.csv` — share price points used in the share portfolio
 
 ## Method
 NVIDIA's fiscal year ends in late January, so calendar-year (Jan–Dec) figures are the sum of the
